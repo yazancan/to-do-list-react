@@ -47,3 +47,6 @@ npm run dev
 
 4. Acesse no navegador: [http://localhost:5173](http://localhost:5173) (Vite).
 
+## 🔗 Deploy
+
+https://to-do-list-react-sepia-pi.vercel.app/

@@ -1,0 +1,17 @@
+.save-item{
+    background-color: #877EED;
+    color: #FFFFFF;
+    width: 125px;
+    border-radius: 24px;
+    border: none;
+    padding: 12px 16px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.save-item:hover{
+    background-color: #544ACB;
+}
